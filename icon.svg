@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   height="1024"
+   width="1024"
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   stroke-linejoin="round"
+   stroke-miterlimit="1.414"
+   viewBox="0 0 1024 1024">
+  <path
+     fill="#7b16ff"
+     stroke-width="21.25"
+     d="M 2,70 C 2,32.45125 32.45125,2 70,2 h 59.5 C 622.415,2 1022,401.585 1022,894.5 V 954 c 0,37.57 -30.45125,68 -68,68 H 580 c -37.54875,0 -68,-30.43 -68,-68 V 894.5 C 512,683.25375 340.74625,512 129.5,512 H 70 C 32.45125,512 2,481.57 2,444 Z" />
+</svg>

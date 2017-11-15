@@ -1,0 +1,23 @@
+{
+  "name": "spectrum",
+  "version": "1.0.0",
+  "description":
+    "Spectrum makes it easy to create and grow your online community.",
+  "main": "index.js",
+  "author": "Alan Plum <me@pluma.io>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://spectrum.chat",
+    "serviceName": "Spectrum",
+    "message": "Build better communities",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "hasIndirectMessages": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    }
+  }
+}
